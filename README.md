@@ -85,6 +85,8 @@ MIT License
 
 - Email: n.sayinzoga@alustudent.com
 - GitHub: [nirere123](https://github.com/nirere123)
+  ## deployment link 
+- github ; https://nirere123.github.io/student-finance-tracker/
 - ## Demo video
 
 - youtube link: https://youtu.be/F6qTb44qyxk
